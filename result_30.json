@@ -1,0 +1,1278 @@
+[
+    {
+        "id": "G1473",
+        "model_input": [
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? Baltimore Ravens.",
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? Kansas City Chiefs.",
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? New England Patriots.",
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? Houston Texans.",
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? Buffalo Bills.",
+            ". The AFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the AFC Championship? Tennessee Titans."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                57.66837692260742
+            ],
+            [
+                47.713836669921875
+            ],
+            [
+                49.85124969482422
+            ],
+            [
+                56.26301574707031
+            ],
+            [
+                60.53304672241211
+            ],
+            [
+                54.278358459472656
+            ]
+        ]
+    },
+    {
+        "id": "G1474",
+        "model_input": [
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? San Francisco 49ers.",
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? Green Bay Packers.",
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? New Orleans Saints.",
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? Philadelphia Eagles.",
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? Seattle Seahawks.",
+            ". The NFC Championship game is scheduled for 19 January 2020 . Which NFL team will win the NFC Championship? Minnesota Vikings."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                43.05350112915039
+            ],
+            [
+                50.45146179199219
+            ],
+            [
+                51.09477233886719
+            ],
+            [
+                65.19053649902344
+            ],
+            [
+                56.49458694458008
+            ],
+            [
+                56.467281341552734
+            ]
+        ]
+    },
+    {
+        "id": "G1475",
+        "model_input": [
+            ". The Iowa caucuses are scheduled for 3 February 2020 . The outcome will be determined based on who wins the most pledged delegates, reported as \"state delegate equivalents\" in Iowa . In the event of a tie, the candidate with the most final votes will be considered the winner. Who will win the 2020 Iowa Democratic caucuses? Joe Biden.",
+            ". The Iowa caucuses are scheduled for 3 February 2020 . The outcome will be determined based on who wins the most pledged delegates, reported as \"state delegate equivalents\" in Iowa . In the event of a tie, the candidate with the most final votes will be considered the winner. Who will win the 2020 Iowa Democratic caucuses? Pete Buttigieg.",
+            ". The Iowa caucuses are scheduled for 3 February 2020 . The outcome will be determined based on who wins the most pledged delegates, reported as \"state delegate equivalents\" in Iowa . In the event of a tie, the candidate with the most final votes will be considered the winner. Who will win the 2020 Iowa Democratic caucuses? Bernie Sanders.",
+            ". The Iowa caucuses are scheduled for 3 February 2020 . The outcome will be determined based on who wins the most pledged delegates, reported as \"state delegate equivalents\" in Iowa . In the event of a tie, the candidate with the most final votes will be considered the winner. Who will win the 2020 Iowa Democratic caucuses? Elizabeth Warren.",
+            ". The Iowa caucuses are scheduled for 3 February 2020 . The outcome will be determined based on who wins the most pledged delegates, reported as \"state delegate equivalents\" in Iowa . In the event of a tie, the candidate with the most final votes will be considered the winner. Who will win the 2020 Iowa Democratic caucuses? Someone else."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02"
+        ],
+        "perplexity_values": [
+            [
+                23.60873031616211,
+                19.92208480834961
+            ],
+            [
+                21.036792755126953,
+                18.464311599731445
+            ],
+            [
+                22.846126556396484,
+                19.91267204284668
+            ],
+            [
+                22.930654525756836,
+                20.560636520385742
+            ],
+            [
+                24.950960159301758,
+                22.479171752929688
+            ]
+        ]
+    },
+    {
+        "id": "G1476",
+        "model_input": [
+            ". The New Hampshire primary is scheduled for 11 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most votes will be considered the winner. Who will win the 2020 New Hampshire Democratic primary? Joe Biden.",
+            ". The New Hampshire primary is scheduled for 11 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most votes will be considered the winner. Who will win the 2020 New Hampshire Democratic primary? Pete Buttigieg.",
+            ". The New Hampshire primary is scheduled for 11 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most votes will be considered the winner. Who will win the 2020 New Hampshire Democratic primary? Bernie Sanders.",
+            ". The New Hampshire primary is scheduled for 11 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most votes will be considered the winner. Who will win the 2020 New Hampshire Democratic primary? Elizabeth Warren.",
+            ". The New Hampshire primary is scheduled for 11 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most votes will be considered the winner. Who will win the 2020 New Hampshire Democratic primary? Someone else."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02"
+        ],
+        "perplexity_values": [
+            [
+                17.64966583251953,
+                14.626638412475586
+            ],
+            [
+                15.488743782043457,
+                13.44148063659668
+            ],
+            [
+                16.870508193969727,
+                14.451353073120117
+            ],
+            [
+                17.02223777770996,
+                14.692243576049805
+            ],
+            [
+                18.835186004638672,
+                16.65190315246582
+            ]
+        ]
+    },
+    {
+        "id": "G1477",
+        "model_input": [
+            ". Regional tensions in the Middle East are running high since attacks against commercial vessels in the Gulf of Oman, the downing of a U. S.drone, and missile attacks on Saudi oil fields in 2019 . The deaths of General Qasem Soleimani and others in a 3 January 2020 U. S.missile strike in Baghdad in the wake of attacks on the U. S.embassy in Iraq have further inflamed tensions, with Iran warning of retaliation . A lethal confrontation is one that results in at least one fatality for the national military forces of either side. For the purposes of this question, Iran's national military forces include the Revolutionary Guard Corps and Law Enforcement Forces.&nbsp;A lethal confrontation taking place in Iranian airspace or international airspace over the sea would count. Before 1 January 2021, will there be a lethal confrontation between the national military forces of Iran and the United States either in Iran or at sea? yes.",
+            ". Regional tensions in the Middle East are running high since attacks against commercial vessels in the Gulf of Oman, the downing of a U. S.drone, and missile attacks on Saudi oil fields in 2019 . The deaths of General Qasem Soleimani and others in a 3 January 2020 U. S.missile strike in Baghdad in the wake of attacks on the U. S.embassy in Iraq have further inflamed tensions, with Iran warning of retaliation . A lethal confrontation is one that results in at least one fatality for the national military forces of either side. For the purposes of this question, Iran's national military forces include the Revolutionary Guard Corps and Law Enforcement Forces.&nbsp;A lethal confrontation taking place in Iranian airspace or international airspace over the sea would count. Before 1 January 2021, will there be a lethal confrontation between the national military forces of Iran and the United States either in Iran or at sea? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                39.14907455444336,
+                45.008026123046875,
+                51.95545959472656,
+                49.81993103027344,
+                46.98695373535156,
+                48.4281120300293,
+                49.82637023925781,
+                49.139530181884766,
+                48.83710861206055,
+                49.91598129272461,
+                45.62912368774414,
+                44.68610382080078
+            ],
+            [
+                38.89323043823242,
+                44.58879852294922,
+                51.78030014038086,
+                49.27986145019531,
+                46.770469665527344,
+                48.22500228881836,
+                49.784950256347656,
+                48.776458740234375,
+                48.73561096191406,
+                49.23096466064453,
+                45.098289489746094,
+                44.41098403930664
+            ]
+        ]
+    },
+    {
+        "id": "G1478",
+        "model_input": [
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Bon Iver, Hey Ma.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Billie Eilish, Bad Guy.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Ariana Grande, 7 Rings.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? H. E. R., Hard Place.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Khalid, Talk.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Lil Nas X featuring Billy Ray Cyrus, Old Town Road.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Lizzo, Truth Hurts.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? Post Maline & Swae Lee, Sunflower.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Record of the Year? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                60.26434326171875
+            ],
+            [
+                31.882259368896484
+            ],
+            [
+                47.1671028137207
+            ],
+            [
+                60.482784271240234
+            ],
+            [
+                72.9038314819336
+            ],
+            [
+                36.59330749511719
+            ],
+            [
+                35.9237174987793
+            ],
+            [
+                180.10133361816406
+            ],
+            [
+                59.35467529296875
+            ]
+        ]
+    },
+    {
+        "id": "G1479",
+        "model_input": [
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Bon Iver, I,I.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Lana Del Ray, Norman F***ing Rockwell!.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Billie Eilish, When We All Fall Asleep, Where Do We Go?.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Ariana Grande, Thank U, Next.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? H. E. R., I Used to Know Her.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Lil Nas X, 7.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Lizzo, Cuz I Love You.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? Vampire Weekend, Father of the Bride.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Album of the Year? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                40.443267822265625
+            ],
+            [
+                94.09844970703125
+            ],
+            [
+                14.47718334197998
+            ],
+            [
+                28.603872299194336
+            ],
+            [
+                44.931068420410156
+            ],
+            [
+                41.62582778930664
+            ],
+            [
+                32.089656829833984
+            ],
+            [
+                41.0407829284668
+            ],
+            [
+                52.20611572265625
+            ]
+        ]
+    },
+    {
+        "id": "G1480",
+        "model_input": [
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Always Remember Us This Way, Lady Gaga.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Bad Guy, Billie Eilish.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Bring My Flowers Now, Tanya Tucker.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Hard Place, H. E. R..",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Lover, Taylor Swift.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Norman F***ing Rockwell, Lana Del Ray.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Someone You Loved, Lewis Capaldi.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? Truth Hurts, Lizzo.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Which song will win the 2020 Grammy for Song of the Year? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                59.82978820800781
+            ],
+            [
+                31.182861328125
+            ],
+            [
+                71.50979614257812
+            ],
+            [
+                61.63766098022461
+            ],
+            [
+                50.28511428833008
+            ],
+            [
+                110.8331527709961
+            ],
+            [
+                51.94937515258789
+            ],
+            [
+                38.524749755859375
+            ],
+            [
+                56.335819244384766
+            ]
+        ]
+    },
+    {
+        "id": "G1481",
+        "model_input": [
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Black Pumas.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Billie Eilish.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Lil Nas X.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Lizzo.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Maggie Rogers.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Rosal\u00eda.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Tank and the Bangas.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? Yola.",
+            ". The 2020 Grammy Awards are scheduled for 26 January 2020 . Who will win the 2020 Grammy for Best New Artist? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                44.23846435546875
+            ],
+            [
+                26.28836441040039
+            ],
+            [
+                36.789669036865234
+            ],
+            [
+                37.2606315612793
+            ],
+            [
+                46.512149810791016
+            ],
+            [
+                44.54213333129883
+            ],
+            [
+                65.0185775756836
+            ],
+            [
+                59.453250885009766
+            ],
+            [
+                56.689369201660156
+            ]
+        ]
+    },
+    {
+        "id": "G1482",
+        "model_input": [
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? 1917.",
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? The Irishman.",
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? Joker.",
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? Once Upon a Time...in Hollywood.",
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? Parasite.",
+            ". The BAFTA Awards are scheduled for 2 February 2020 . Which film will win the 2020 BAFTA Award for Best Film? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                57.69337844848633
+            ],
+            [
+                48.4045524597168
+            ],
+            [
+                63.930580139160156
+            ],
+            [
+                38.99546813964844
+            ],
+            [
+                51.51683044433594
+            ],
+            [
+                70.5136947631836
+            ]
+        ]
+    },
+    {
+        "id": "G1483",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Ford v Ferrari.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? The Irishman.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Jojo Rabbit.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Joker.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Little Women.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Marriage Story.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? 1917.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Once Upon a Time...in Hollywood.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? Parasite.",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Best Motion Picture of the Year? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                79.85334777832031
+            ],
+            [
+                76.1944580078125
+            ],
+            [
+                76.46553802490234
+            ],
+            [
+                97.25875091552734
+            ],
+            [
+                83.79440307617188
+            ],
+            [
+                86.2125473022461
+            ],
+            [
+                87.41158294677734
+            ],
+            [
+                58.628326416015625
+            ],
+            [
+                80.61314392089844
+            ],
+            [
+                101.67202758789062
+            ]
+        ]
+    },
+    {
+        "id": "G1484",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? The Irishman (Martin Scorsese).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? Joker (Todd Phillips).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? 1917 (Sam Mendes).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? Once Upon a Time...in Hollywood (Quentin Tarantino).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? Parasite (Bong Joon Ho).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Which film will win the 2020 Oscar\u00ae for Directing? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                91.2640380859375
+            ],
+            [
+                154.4588165283203
+            ],
+            [
+                121.52197265625
+            ],
+            [
+                76.02381134033203
+            ],
+            [
+                89.58502960205078
+            ],
+            [
+                169.25408935546875
+            ]
+        ]
+    },
+    {
+        "id": "G1485",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? Antonio Banderas (Pain and Glory).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? Leonardo DiCaprio (Once Upon a Time...in Hollywood).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? Adam Driver (Marriage Story).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? Joaquin Phoenix (Joker).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? Jonathan Pryce (The Two Popes).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actor? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                66.73483276367188
+            ],
+            [
+                46.62053298950195
+            ],
+            [
+                70.78666687011719
+            ],
+            [
+                65.15135192871094
+            ],
+            [
+                69.3320541381836
+            ],
+            [
+                126.44832611083984
+            ]
+        ]
+    },
+    {
+        "id": "G1486",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? Tom Hanks (A Beautiful Day in the Neighborhood).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? Anthony Hopkins (The Two Popes).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? Al Pacino (The Irishman).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? Joe Pesci (The Irishman).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? Brad Pitt (Once Upon a Time...in Hollywood).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actor? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                53.113731384277344
+            ],
+            [
+                66.41378784179688
+            ],
+            [
+                62.471309661865234
+            ],
+            [
+                60.176761627197266
+            ],
+            [
+                52.6469612121582
+            ],
+            [
+                115.0453109741211
+            ]
+        ]
+    },
+    {
+        "id": "G1487",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? Kathy Bates (Richard Jewell).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? Laura Dern (Marriage Story).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? Scarlett Johansson (Jojo Rabbit).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? Florence Pugh (Little Women).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? Margot Robbie (Bombshell).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Supporting Actress? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                74.2693099975586
+            ],
+            [
+                62.44707107543945
+            ],
+            [
+                62.39935302734375
+            ],
+            [
+                67.94454193115234
+            ],
+            [
+                67.61358642578125
+            ],
+            [
+                113.68276977539062
+            ]
+        ]
+    },
+    {
+        "id": "G1488",
+        "model_input": [
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? Cynthia Erivo (Harriet).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? Scarlett Johansson (Marriage Story).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? Saoirse Ronan (Little Women).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? Charlize Theron (Bombshell).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? Ren\u00e9e Zellweger (Judy).",
+            ". The 92nd Academy Awards\u00ae, known as the Oscars\u00ae, are scheduled for 9 February 2020 . Who will win the 2020 Oscar\u00ae for Best Actress? A tie or other outcome."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                75.7763671875
+            ],
+            [
+                68.85981750488281
+            ],
+            [
+                64.49436950683594
+            ],
+            [
+                76.03091430664062
+            ],
+            [
+                68.73040771484375
+            ],
+            [
+                131.63966369628906
+            ]
+        ]
+    },
+    {
+        "id": "G1489",
+        "model_input": [
+            ". F\u00e9lix Tshisekedi was inaugurated in January 2020 amid claims of election rigging and a secret power-sharing deal with outgoing President Kabila . Will F\u00e9lix Tshisekedi cease to be president of the Democratic Republic of the Congo before 15 August 2020? yes.",
+            ". F\u00e9lix Tshisekedi was inaugurated in January 2020 amid claims of election rigging and a secret power-sharing deal with outgoing President Kabila . Will F\u00e9lix Tshisekedi cease to be president of the Democratic Republic of the Congo before 15 August 2020? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08"
+        ],
+        "perplexity_values": [
+            [
+                64.63453674316406,
+                64.95585632324219,
+                88.86528778076172,
+                72.31441497802734,
+                60.91595458984375,
+                51.941524505615234,
+                55.67821502685547,
+                67.09160614013672
+            ],
+            [
+                61.88439178466797,
+                63.501373291015625,
+                88.10485076904297,
+                71.5372543334961,
+                57.99725341796875,
+                51.9181022644043,
+                55.5802001953125,
+                65.16822052001953
+            ]
+        ]
+    },
+    {
+        "id": "G1490",
+        "model_input": [
+            ". As the 2020 presidential election approaches, a Supreme Court vacancy would be an important political development . Before 1 January 2021, will a United States Supreme Court seat be vacated? Yes, and a replacement Justice will be confirmed by the Senate before 1 January 2021.",
+            ". As the 2020 presidential election approaches, a Supreme Court vacancy would be an important political development . Before 1 January 2021, will a United States Supreme Court seat be vacated? Yes, but no replacement Justice will be confirmed by the Senate before 1 January 2021.",
+            ". As the 2020 presidential election approaches, a Supreme Court vacancy would be an important political development . Before 1 January 2021, will a United States Supreme Court seat be vacated? No."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10"
+        ],
+        "perplexity_values": [
+            [
+                41.58785629272461,
+                53.52573776245117,
+                40.830360412597656,
+                39.7405891418457,
+                35.02330017089844,
+                46.285736083984375,
+                38.35151672363281,
+                40.69895553588867,
+                32.94978332519531,
+                33.279815673828125
+            ],
+            [
+                50.93949508666992,
+                59.688018798828125,
+                44.76717758178711,
+                44.64459228515625,
+                38.5386962890625,
+                51.100608825683594,
+                40.28437042236328,
+                45.73860549926758,
+                35.34766387939453,
+                34.58635330200195
+            ],
+            [
+                53.90900421142578,
+                62.036277770996094,
+                57.09006118774414,
+                70.00603485107422,
+                49.34346389770508,
+                71.64492797851562,
+                54.556419372558594,
+                53.247039794921875,
+                50.87446212768555,
+                47.99226760864258
+            ]
+        ]
+    },
+    {
+        "id": "G1491",
+        "model_input": [
+            ". A lethal confrontation between the national military forces of Iran and Saudi Arabia is becoming an issue of increasing concern . A lethal confrontation is one that results in at least one fatality for the national military forces of either side. For the purposes of this question, Iran's national military forces include the Revolutionary Guard Corps. Saudi Arabia's military forces include the General Directorate of Border Guard. A lethal confrontation taking place in Iranian airspace or international airspace over the sea would count. Before 1 January 2021, will there be a lethal confrontation between the national military or law enforcement forces of Iran and Saudi Arabia either in Iran or at sea? yes.",
+            ". A lethal confrontation between the national military forces of Iran and Saudi Arabia is becoming an issue of increasing concern . A lethal confrontation is one that results in at least one fatality for the national military forces of either side. For the purposes of this question, Iran's national military forces include the Revolutionary Guard Corps. Saudi Arabia's military forces include the General Directorate of Border Guard. A lethal confrontation taking place in Iranian airspace or international airspace over the sea would count. Before 1 January 2021, will there be a lethal confrontation between the national military or law enforcement forces of Iran and Saudi Arabia either in Iran or at sea? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                36.866268157958984,
+                34.93132019042969,
+                38.970245361328125,
+                39.20737075805664,
+                39.0828857421875,
+                43.62865447998047,
+                35.532310485839844,
+                34.190086364746094,
+                32.136024475097656,
+                38.782958984375,
+                35.67473602294922,
+                39.97248458862305
+            ],
+            [
+                36.40095138549805,
+                34.39605712890625,
+                38.688560485839844,
+                38.66813659667969,
+                38.564292907714844,
+                43.282222747802734,
+                35.24336624145508,
+                33.677642822265625,
+                32.047760009765625,
+                38.03910446166992,
+                35.1928596496582,
+                39.79078674316406
+            ]
+        ]
+    },
+    {
+        "id": "G1492",
+        "model_input": [
+            ". Negotiations between the United States and North Korea during 2019 were inconclusive, and there are efforts to restart them in 2020 . For purposes of this question, the meeting must be in-person. Will President Trump and North Korea's Kim Jong Un meet before 1 January 2021? yes.",
+            ". Negotiations between the United States and North Korea during 2019 were inconclusive, and there are efforts to restart them in 2020 . For purposes of this question, the meeting must be in-person. Will President Trump and North Korea's Kim Jong Un meet before 1 January 2021? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                51.506629943847656,
+                46.674781799316406,
+                48.465938568115234,
+                47.2889518737793,
+                51.753578186035156,
+                46.62357711791992,
+                40.019222259521484,
+                43.522682189941406,
+                47.71467971801758,
+                45.840660095214844,
+                42.79938888549805,
+                48.281227111816406
+            ],
+            [
+                49.08634567260742,
+                45.77543640136719,
+                47.93159103393555,
+                45.98057174682617,
+                50.71698760986328,
+                47.22883224487305,
+                40.351139068603516,
+                43.52019500732422,
+                47.52458190917969,
+                44.44533157348633,
+                41.71227264404297,
+                47.9466552734375
+            ]
+        ]
+    },
+    {
+        "id": "G1493",
+        "model_input": [
+            ". The U. S. Bureau of Economic Analysis releases three estimates for each quarter: advance, second, and third, and the release dates for 2020 can be found here: This question will be resolved based on the third estimates for Q1, Q2, and Q3, typically released 3 months after the end of each quarter, and the advance estimate for Q4, expected in mid-January 2021. The third estimate for Q3 2019 indicated that real GDP increased at an annual rate of 2.1 percent . The last time the U. S. GDP growth rate was negative was Q1 2014 . Will the United States experience at least one quarter of negative real GDP growth in 2020? yes.",
+            ". The U. S. Bureau of Economic Analysis releases three estimates for each quarter: advance, second, and third, and the release dates for 2020 can be found here: This question will be resolved based on the third estimates for Q1, Q2, and Q3, typically released 3 months after the end of each quarter, and the advance estimate for Q4, expected in mid-January 2021. The third estimate for Q3 2019 indicated that real GDP increased at an annual rate of 2.1 percent . The last time the U. S. GDP growth rate was negative was Q1 2014 . Will the United States experience at least one quarter of negative real GDP growth in 2020? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03"
+        ],
+        "perplexity_values": [
+            [
+                25.624534606933594,
+                30.182004928588867,
+                25.87400245666504
+            ],
+            [
+                25.288808822631836,
+                29.774553298950195,
+                25.962059020996094
+            ]
+        ]
+    },
+    {
+        "id": "G1494",
+        "model_input": [
+            ". A change in Scotland's relationship with the United Kingdom is being discussed as a possible consequence of the Brexit process . The referendum date is immaterial to the question. Whether the UK government sets or agrees to the referendum date or implements the result is immaterial to the question. Before 1 January 2021, will a date be set for a referendum on Scotland's status within the United Kingdom? yes.",
+            ". A change in Scotland's relationship with the United Kingdom is being discussed as a possible consequence of the Brexit process . The referendum date is immaterial to the question. Whether the UK government sets or agrees to the referendum date or implements the result is immaterial to the question. Before 1 January 2021, will a date be set for a referendum on Scotland's status within the United Kingdom? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                31.85584831237793,
+                30.782882690429688,
+                33.34812927246094,
+                34.587921142578125,
+                27.941190719604492,
+                32.56904983520508,
+                33.260799407958984,
+                30.14984130859375,
+                30.041860580444336,
+                34.46163558959961,
+                35.9536247253418,
+                31.968162536621094
+            ],
+            [
+                31.431682586669922,
+                30.02788734436035,
+                32.95482635498047,
+                33.586055755615234,
+                27.053258895874023,
+                32.52576446533203,
+                33.28758239746094,
+                30.15654945373535,
+                29.89105224609375,
+                33.63252639770508,
+                34.58599853515625,
+                30.936397552490234
+            ]
+        ]
+    },
+    {
+        "id": "G1495",
+        "model_input": [
+            ". For more information on the the popular vote and the electoral college gov, Ballotpedia, Archives.gov). Will the winner of the popular vote in the 2020 United States presidential election also win the electoral college? yes.",
+            ". For more information on the the popular vote and the electoral college gov, Ballotpedia, Archives.gov). Will the winner of the popular vote in the 2020 United States presidential election also win the electoral college? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10"
+        ],
+        "perplexity_values": [
+            [
+                89.17881774902344,
+                70.0645751953125,
+                49.57124328613281,
+                64.44957733154297,
+                58.22533416748047,
+                60.081539154052734,
+                43.792728424072266,
+                61.85645294189453,
+                47.930938720703125,
+                52.33877182006836
+            ],
+            [
+                87.14053344726562,
+                68.14892578125,
+                50.891231536865234,
+                66.2499771118164,
+                56.25654983520508,
+                60.42285919189453,
+                43.21000289916992,
+                60.68720245361328,
+                48.341522216796875,
+                53.49524688720703
+            ]
+        ]
+    },
+    {
+        "id": "G1496",
+        "model_input": [
+            ". The 2020 United States presidential election is scheduled for Tuesday 3 November 2020 . Who will win the 2020 United States presidential election? The Democratic Party nominee.",
+            ". The 2020 United States presidential election is scheduled for Tuesday 3 November 2020 . Who will win the 2020 United States presidential election? The Republican Party nominee.",
+            ". The 2020 United States presidential election is scheduled for Tuesday 3 November 2020 . Who will win the 2020 United States presidential election? Another candidate."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10"
+        ],
+        "perplexity_values": [
+            [
+                30.07876968383789,
+                29.356016159057617,
+                31.054752349853516,
+                29.357397079467773,
+                33.61997985839844,
+                30.758792877197266,
+                33.532188415527344,
+                26.275833129882812,
+                29.94476318359375,
+                25.438251495361328
+            ],
+            [
+                31.594797134399414,
+                32.89052200317383,
+                32.860328674316406,
+                31.2022647857666,
+                35.309295654296875,
+                32.67683410644531,
+                36.57902145385742,
+                27.362586975097656,
+                31.41313362121582,
+                25.507577896118164
+            ],
+            [
+                39.71379089355469,
+                40.95747756958008,
+                36.465633392333984,
+                39.727176666259766,
+                42.350975036621094,
+                34.79634094238281,
+                41.047462463378906,
+                31.472183227539062,
+                38.48858642578125,
+                32.617835998535156
+            ]
+        ]
+    },
+    {
+        "id": "G1497",
+        "model_input": [
+            ". Guaid\u00f3 and his allies continue to face pressure from the Maduro government, including a threat by Venezuelan prosecutors to arrest Guaid\u00f3 for \"high treason\" . The duration of a detention or arrest is immaterial to the resolution of this question. Will Venezuelan opposition leader Juan Guaid\u00f3 be detained or arrested by Venezuelan authorities before 1 January 2021? yes.",
+            ". Guaid\u00f3 and his allies continue to face pressure from the Maduro government, including a threat by Venezuelan prosecutors to arrest Guaid\u00f3 for \"high treason\" . The duration of a detention or arrest is immaterial to the resolution of this question. Will Venezuelan opposition leader Juan Guaid\u00f3 be detained or arrested by Venezuelan authorities before 1 January 2021? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                40.87715148925781,
+                39.94601058959961,
+                41.538665771484375,
+                44.524879455566406,
+                39.1651496887207,
+                42.44905090332031,
+                42.1434211730957,
+                42.026126861572266,
+                35.53305435180664,
+                38.0439567565918,
+                47.767677307128906,
+                41.74248504638672
+            ],
+            [
+                39.19850158691406,
+                39.549163818359375,
+                40.6434326171875,
+                44.116031646728516,
+                38.11205291748047,
+                42.434268951416016,
+                41.91897201538086,
+                41.279441833496094,
+                35.19587326049805,
+                36.59775924682617,
+                46.00530242919922,
+                41.37620162963867
+            ]
+        ]
+    },
+    {
+        "id": "G1498",
+        "model_input": [
+            ". Prime Minister Netanyahu faces an array of challenges, including criminal corruption charges and the third Knesset election within a year scheduled for 2 March 2020 . Will Benjamin Netanyahu cease to be the prime minister of Israel before 1 January 2021? yes.",
+            ". Prime Minister Netanyahu faces an array of challenges, including criminal corruption charges and the third Knesset election within a year scheduled for 2 March 2020 . Will Benjamin Netanyahu cease to be the prime minister of Israel before 1 January 2021? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                106.75796508789062,
+                87.08155059814453,
+                88.5532455444336,
+                99.5984115600586,
+                119.61707305908203,
+                108.05048370361328,
+                109.1540298461914,
+                79.44055938720703,
+                88.68000793457031,
+                120.90895080566406,
+                88.35272979736328,
+                86.7957534790039
+            ],
+            [
+                100.917236328125,
+                85.00194549560547,
+                88.59573364257812,
+                96.91866302490234,
+                114.01256561279297,
+                112.00975799560547,
+                107.99186706542969,
+                77.72467803955078,
+                88.4232406616211,
+                116.13237762451172,
+                85.23788452148438,
+                84.92027282714844
+            ]
+        ]
+    },
+    {
+        "id": "G1499",
+        "model_input": [
+            ". Protests in Hong Kong that began in June 2019 have evolved into broader anti-government protests . Reports indicate that China's central government could mobilize PLA and/or PAP troops in Hong Kong . For the purposes of this question, \"mobilized\" means actively engaged in military or law enforcement actions against protesters within the territory of Hong Kong. Before 1 January 2021, will the People's Liberation Army (PLA) and/or People's Armed Police (PAP) be mobilized in Hong Kong? yes.",
+            ". Protests in Hong Kong that began in June 2019 have evolved into broader anti-government protests . Reports indicate that China's central government could mobilize PLA and/or PAP troops in Hong Kong . For the purposes of this question, \"mobilized\" means actively engaged in military or law enforcement actions against protesters within the territory of Hong Kong. Before 1 January 2021, will the People's Liberation Army (PLA) and/or People's Armed Police (PAP) be mobilized in Hong Kong? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12"
+        ],
+        "perplexity_values": [
+            [
+                33.52726745605469,
+                31.704195022583008,
+                31.795333862304688,
+                32.31001663208008,
+                28.25295066833496,
+                32.895503997802734,
+                28.990333557128906,
+                32.30178451538086,
+                30.45697593688965,
+                35.38383483886719,
+                34.059471130371094,
+                31.919239044189453
+            ],
+            [
+                32.97929382324219,
+                31.15117835998535,
+                32.02534103393555,
+                31.925457000732422,
+                27.890056610107422,
+                32.838104248046875,
+                29.03077507019043,
+                31.95117950439453,
+                30.651432037353516,
+                34.64863967895508,
+                33.1774787902832,
+                31.443950653076172
+            ]
+        ]
+    },
+    {
+        "id": "G1500",
+        "model_input": [
+            ". A slowing economy in India is affecting many sectors, including car sales . The question will be resolved based on data reported by the Society of Indian Automobile Manufacturers, or SIAM . For April-June 2019 SIAM reported that the sale of Passenger Vehicles declined by 18.42% compared to April-June 2018 . The question will be suspended on 30 June 2020 and resolved when the relevant data are released, usually in early July. Will domestic sales of passenger vehicles in India be higher in April-June 2020 compared with April-June 2019? yes.",
+            ". A slowing economy in India is affecting many sectors, including car sales . The question will be resolved based on data reported by the Society of Indian Automobile Manufacturers, or SIAM . For April-June 2019 SIAM reported that the sale of Passenger Vehicles declined by 18.42% compared to April-June 2018 . The question will be suspended on 30 June 2020 and resolved when the relevant data are released, usually in early July. Will domestic sales of passenger vehicles in India be higher in April-June 2020 compared with April-June 2019? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06"
+        ],
+        "perplexity_values": [
+            [
+                54.529762268066406,
+                58.014488220214844,
+                53.56708908081055,
+                52.52178955078125,
+                57.181114196777344,
+                50.99300765991211
+            ],
+            [
+                54.08662796020508,
+                58.03709030151367,
+                53.76138687133789,
+                52.313995361328125,
+                56.883052825927734,
+                51.698143005371094
+            ]
+        ]
+    },
+    {
+        "id": "G1502",
+        "model_input": [
+            ". Italian Prime Minister Giuseppe Conte entered 2020 after a politically tumultuous year . Any reappointment of Conte would not count. Will there be a new prime minister of Italy before 24 January 2021? yes.",
+            ". Italian Prime Minister Giuseppe Conte entered 2020 after a politically tumultuous year . Any reappointment of Conte would not count. Will there be a new prime minister of Italy before 24 January 2021? no."
+        ],
+        "time_windows": [
+            "2020-01",
+            "2020-02",
+            "2020-03",
+            "2020-04",
+            "2020-05",
+            "2020-06",
+            "2020-07",
+            "2020-08",
+            "2020-09",
+            "2020-10",
+            "2020-11",
+            "2020-12",
+            "2021-01"
+        ],
+        "perplexity_values": [
+            [
+                97.65491485595703,
+                80.78977966308594,
+                81.21407318115234,
+                84.16693878173828,
+                88.10858154296875,
+                102.68648529052734,
+                94.25557708740234,
+                117.86656951904297,
+                107.62831115722656,
+                92.28761291503906,
+                90.15631103515625,
+                103.6356201171875,
+                80.91400146484375
+            ],
+            [
+                92.62413024902344,
+                77.59761810302734,
+                80.63756561279297,
+                81.27656555175781,
+                84.24571990966797,
+                103.69498443603516,
+                91.82478332519531,
+                117.72422790527344,
+                102.26658630371094,
+                89.9798355102539,
+                85.81925201416016,
+                101.54364013671875,
+                77.03095245361328
+            ]
+        ]
+    },
+    {
+        "id": "G1503",
+        "model_input": [
+            ". The Nevada caucuses are scheduled for 22 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most county convention delegates will be considered the winner. Who will win the 2020 Nevada Democratic caucuses? Joe Biden.",
+            ". The Nevada caucuses are scheduled for 22 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most county convention delegates will be considered the winner. Who will win the 2020 Nevada Democratic caucuses? Bernie Sanders.",
+            ". The Nevada caucuses are scheduled for 22 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most county convention delegates will be considered the winner. Who will win the 2020 Nevada Democratic caucuses? Tom Steyer.",
+            ". The Nevada caucuses are scheduled for 22 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most county convention delegates will be considered the winner. Who will win the 2020 Nevada Democratic caucuses? Elizabeth Warren.",
+            ". The Nevada caucuses are scheduled for 22 February 2020 . The outcome will be determined based on who wins the most pledged delegates. In the event of a tie, the candidate with the most county convention delegates will be considered the winner. Who will win the 2020 Nevada Democratic caucuses? Someone else."
+        ],
+        "time_windows": [
+            "2020-01"
+        ],
+        "perplexity_values": [
+            [
+                26.098709106445312
+            ],
+            [
+                25.17228889465332
+            ],
+            [
+                24.581682205200195
+            ],
+            [
+                25.57967185974121
+            ],
+            [
+                27.865562438964844
+            ]
+        ]
+    }
+]
